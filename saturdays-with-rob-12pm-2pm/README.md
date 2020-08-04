@@ -27,3 +27,4 @@ none
 ## August 8th Attendees
 
  -Jessica Reynolds: help with order book
+ - Marcus Johnson for help with order book
